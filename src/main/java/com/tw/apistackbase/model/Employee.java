@@ -6,6 +6,7 @@ public class Employee {
 	private int age;
 	private String gender;
 	private int salary;
+	
 	public Employee() {
 		super();
 	}
